@@ -1,5 +1,4 @@
 # Covid-19 Certificate with QR
-Working in progress...
 
 ** Version 1.0.0.**
 
